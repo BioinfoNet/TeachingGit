@@ -16,7 +16,7 @@ For BOSS Workshops, you already have access to the HPC. If you need to set up th
 
 
 ## Content
-1. [Introduction to Git and GitHub](https://docs.google.com/presentation/d/1NVHLHiL-tw-3e5KYFY-N_ISjWgGHIs45eAypEUep_hU/edit?usp=sharing)
+1. [Lecture Slides: Introduction to Git and GitHub](https://docs.google.com/presentation/d/1NVHLHiL-tw-3e5KYFY-N_ISjWgGHIs45eAypEUep_hU/edit?usp=sharing)
 2. [The Simple Git Guide](http://rogerdudler.github.io/git-guide/)
 3. [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
 4. [Git Cheat-sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
